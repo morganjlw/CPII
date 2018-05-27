@@ -1,5 +1,6 @@
 # CPII
 Cell Phone Ignition Interlock
+![](https://github.com/morganjlw/CPII/blob/master/texting%20and%20driving.jpg)
 
 ## Summary
 Raspberry Pi based project that uses Cell Phone and Driver's License authentication protocol to actuate vehicle ignition interlock. This project is a preliminary prototype, later revisions will comprise of a full OBDII interfacing system running specialized IC's with minimal power requirements (MCP and STN variants). Additionally, a variety of protocols will be addressed (SAE PWM and VPW J1850, ISO 9141-2, and J1939).
