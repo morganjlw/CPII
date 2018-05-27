@@ -1,5 +1,5 @@
-# CPII
-Cell Phone Ignition Interlock
+# Cell Phone Ignition Interlock (CPII)
+
 ![](https://github.com/morganjlw/CPII/blob/master/texting%20and%20driving.jpg)
 
 ## Summary
