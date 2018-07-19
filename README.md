@@ -12,5 +12,8 @@ The objective of this project is to prove the design concept. Lessons learned wi
 Raspberry Pi 3 used to authenticate cell phone using developer device ID, generic mag. stripe reader to verify BC Drivers License, in conjunction with a box employing closure detection. Mechanical relay used to control ignition signal path. Relay is actuated by Pi GPIO driven optocoupler. LED UI provides status of authentication.
 
 ## System Design
+
+![](https://github.com/morganjlw/CPII/blob/master/SystemDesign.JPG)
+
 ### Software FSM
 ![](https://github.com/morganjlw/CPII/blob/master/SoftwareFSM.JPG)
