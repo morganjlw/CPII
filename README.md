@@ -9,6 +9,6 @@ An adaptation of the Canadian Ignition Interlock Program (IIP) that addresses in
 The objective of this project is to prove the design concept. Lessons learned will guide future revisions. ]
 
 ## Prototype Specifications
-Raspberry Pi 3 used to authenticate cell phone, MFRC-522 RFID reader breakout PCB used to read Driver's License (B.C. EDL), in conjunction with a cell phone box with closure detection. Optocoupler used to control ignition signal path. LED UI provides status of authentication.
+Raspberry Pi 3 used to authenticate cell phone using developer device ID, generic mag. stripe reader to verify BC Drivers License, in conjunction with a box employing closure detection. Mechanical relay used to control ignition signal path. LED UI provides status of authentication.
 
 ## System Design
