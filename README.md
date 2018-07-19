@@ -17,3 +17,5 @@ Raspberry Pi 3 used to authenticate cell phone using developer device ID, generi
 
 ### Software FSM
 ![](https://github.com/morganjlw/CPII/blob/master/SoftwareFSM.JPG)
+
+The code written in Python will uses a variety of Pi libraries to read phone ID and Drivers License data via the USB interface as well as control GPIO.
