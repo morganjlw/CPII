@@ -15,10 +15,11 @@ Raspberry Pi Zero used to authenticate cell phone using developer device ID, gen
 
 ## System Design
 High-level system schematic can be found in the images folder.
+
 ### Pi Zero Daughter PCB
+Electrical schematics can be found in the schematics folder
 ![](https://github.com/morganjlw/CPII/blob/master/images/PCBLayout.JPG)
 
 ### Software FSM
-![]()
-
+![](https://github.com/morganjlw/CPII/blob/master/images/SoftwareFSM.JPG)
 Python code leverages a variety of Pi libraries to read phone ID, Drivers License data via the USB interfacing magnetic stripe reader, and GPIO control.
