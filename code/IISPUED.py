@@ -54,9 +54,9 @@ def initialize_gpio():
     GPIO.setup(Output['INTERLOCK'], GPIO.OUT) # *
 
     #Reed Switch
-    GPIO.setup(Output['REED'], GPIO.IN, pull_up_down=GPIO.PUD_UP) # Configured as input w/ pull down resistor 
+    GPIO.setup(Output['REED'], GPIO.IN, pull_up_down=GPIO.PUD_UP) # Configured as input w/ pull-up resistor 
 
-    # Forcen GPIO states for initialization												   # Use 3V3 rail w/ current limiting resistance
+    # Forcen GPIO states for initialization												  
     GPIO.output(Output['LED1'],GPIO.LOW)
     GPIO.output(Output['LED2'],GPIO.LOW)
     GPIO.output(Output['INTERLOCK'],GPIO.LOW)
