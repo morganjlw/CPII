@@ -1,1 +1,1 @@
-Schematics and PCB layouts included.
+Electrical schematics included.
