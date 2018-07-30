@@ -122,7 +122,6 @@ def main():
         data = json.load(config)
     
     while True:
-       # card_info = ""
 
         if state == State.WAITING_FOR_LICENSE:
             print ("WAITING FOR LICENSE")
