@@ -14,8 +14,9 @@ The objective of this project is to prove the design concept. Lessons learned wi
 Raspberry Pi Zero used to authenticate cell phone using developer device ID, generic magnetic stripe reader to verify BC Drivers License, with a box employing closure detection. Mechanical relay used to control ignition signal path. Relay is actuated by Pi GPIO driven optocoupler. LED UI provides authentication status.
 
 ## System Design
-
-![](https://github.com/morganjlw/CPII/blob/master/images/CPII%20System%20Diagram.pdf)
+High-level system schematic can be found in the images folder.
+### Pi Zero Daughter PCB
+![](https://github.com/morganjlw/CPII/blob/master/images/PCBLayout.JPG)
 
 ### Software FSM
 ![]()
