@@ -1,6 +1,6 @@
 # Device Against Distracted Driving (DADD)
 <p align="center">
-  ![](https://github.com/morganjlw/CPII/blob/master/images/dadd.png)
+  <img/![](https://github.com/morganjlw/CPII/blob/master/images/dadd.png)>
   ![](https://github.com/morganjlw/CPII/blob/master/images/texting%20and%20driving.jpg)
 </p>
 
