@@ -3,7 +3,6 @@
 # Device Against Distracted Driving (DADD)
 ![](https://github.com/morganjlw/CPII/blob/master/images/dadd.png)
 
-
 ## Summary
 A device to accomodate an adaptation of the Canadian Ignition Interlock Program (IIP) to addresses increased cell phone distraction related accidents and offences. Raspberry Pi based project that uses Cell Phone and Driver's License authentication protocol to actuate vehicle ignition interlock. This project is a preliminary prototype, later revisions will comprise of a full OBDII interfacing system running specialized IC's with minimal power requirements (MCP and STN variants). Additionally, a variety of protocols will be addressed (SAE PWM and VPW J1850, ISO 9141-2, and J1939).
 
@@ -18,7 +17,6 @@ High-level system schematic can be found in the images folder.
 
 ### Pi Zero Daughter PCB
 Electrical schematics can be found in the schematics folder
-![](https://github.com/morganjlw/CPII/blob/master/images/PCBLayout.JPG)
 
 ### Software FSM
 ![](https://github.com/morganjlw/CPII/blob/master/images/SoftwareFSM.JPG)
