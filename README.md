@@ -1,7 +1,7 @@
 # Device Against Distracted Driving (DADD)
 <p align="center">
-  <img src=https://github.com/morganjlw/CPII/blob/master/images/dadd.png>
-  ![](https://github.com/morganjlw/CPII/blob/master/images/texting%20and%20driving.jpg)
+  <img src= https://github.com/morganjlw/CPII/blob/master/images/dadd.png>
+  <img src= https://github.com/morganjlw/CPII/blob/master/images/texting%20and%20driving.jpg>
 </p>
 
 ## Summary
@@ -16,7 +16,7 @@ Raspberry Pi Zero used to authenticate cell phone using developer device ID, gen
 ## System Design
 High-level system schematic can be found in the images folder.
 <p align="center">
-![](https://github.com/morganjlw/CPII/blob/master/images/SystemDesign.JPG)
+<img src= https://github.com/morganjlw/CPII/blob/master/images/SystemDesign.JPG>
 </p>
 
 ### Pi Zero Daughter PCB
@@ -24,7 +24,7 @@ Electrical schematics can be found in the schematics folder
 
 ### Software FSM
 <p align="center">
-![](https://github.com/morganjlw/CPII/blob/master/images/SoftwareFSM.JPG)
+<img src= https://github.com/morganjlw/CPII/blob/master/images/SoftwareFSM.JPG>
 <\p>
 
 Python is used to leverage a variety of open source Pi libraries to enable GPIO control and read phone ID and Drivers License data via the USB interfacing magnetic stripe reader.
