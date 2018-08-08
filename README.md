@@ -14,6 +14,7 @@ Raspberry Pi Zero used to authenticate cell phone using developer device ID, gen
 
 ## System Design
 High-level system schematic can be found in the images folder.
+![](https://github.com/morganjlw/CPII/blob/master/images/SystemDesign.JPG)
 
 ### Pi Zero Daughter PCB
 Electrical schematics can be found in the schematics folder
