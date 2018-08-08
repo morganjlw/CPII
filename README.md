@@ -25,6 +25,6 @@ Electrical schematics can be found in the schematics folder
 ### Software FSM
 <p align="center">
 <img src= https://github.com/morganjlw/CPII/blob/master/images/SoftwareFSM.JPG>
-<\p>
+</p>
 
 Python is used to leverage a variety of open source Pi libraries to enable GPIO control and read phone ID and Drivers License data via the USB interfacing magnetic stripe reader.
